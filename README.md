@@ -14,3 +14,5 @@ My version of Gitlet based on cs61b(2019) project2
   - rm-branch: `java Main rm-branch [branch name]`
   - reset: `java Main reset [commit id]`
   - merge: `java Main merge [branch name]`
+
+More details see [my blog](https://ghost04718.github.io/cs/2024/07/30/Gitlet.html).
