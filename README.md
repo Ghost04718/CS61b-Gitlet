@@ -1,4 +1,4 @@
-# cs61b-Gitlet
+# CS61b-Gitlet
 My version of Gitlet based on cs61b(2019) project2
 
 - Gitlet is a smaller and simpler version of **Git** that mimics some of its basic features.
