@@ -1,5 +1,5 @@
 # CS61b-Gitlet
-My version of Gitlet based on cs61b(2019) project2
+My version of Gitlet based on CS61b(2019) project2
 
 - Gitlet is a smaller and simpler version of **Git** that mimics some of its basic features.
   - init: `java Main init`
